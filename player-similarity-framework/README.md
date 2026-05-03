@@ -40,7 +40,7 @@ Example:
 
 Example:
 
-> Find younger and more affordable profiles similar to Lamine Yamal.
+> Find affordable profiles similar to Lamine Yamal.
 
 ---
 
