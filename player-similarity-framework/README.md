@@ -33,7 +33,7 @@ This framework aims to answer these questions through a structured similarity mo
 
 Example:
 
-> Find players similar to :contentReference[oaicite:0]{index=0}.
+> Find players similar to Brooke Norton-Cuffy.
 
 The system identifies potential replacements or tactical alternatives based on technical, physical, contextual, and market similarity.
 
@@ -43,7 +43,7 @@ The system identifies potential replacements or tactical alternatives based on t
 
 Example:
 
-> Find affordable profiles similar to :contentReference[oaicite:1]{index=1}.
+> Find affordable profiles similar to Lamine Yamal.
 
 The system uses elite players as benchmarks to identify emerging or undervalued profiles with comparable characteristics.
 
@@ -186,7 +186,7 @@ The analytical workflow can be implemented through different architectural appro
 
 Player features and similarity rankings are precomputed through Python / SQL pipelines.
 
-Visualization tools such as :contentReference[oaicite:2]{index=2} can then act as the final decision-support interface, optimized for fast exploration and filtering.
+Visualization tools such as Power BI can then act as the final decision-support interface, optimized for fast exploration and filtering.
 
 Best suited for:
 
@@ -199,7 +199,7 @@ Best suited for:
 
 ### Option 2 — On-Demand Similarity Engine
 
-When computational resources allow it, a web-based application (e.g. :contentReference[oaicite:3]{index=3}) can generate similarity rankings dynamically based on real-time filters and scouting constraints.
+When computational resources allow it, a web-based application (e.g. Streamlit) can generate similarity rankings dynamically based on real-time filters and scouting constraints.
 
 Best suited for:
 
