@@ -1,54 +1,60 @@
-# ⚽ Football Analytics Portfolio  
-### Data-driven scouting, performance analysis, and decision-support models
+# 📦 Business Operations Analytics
 
-Hi 👋
+A collection of Business Operations Analytics projects focused on improving operational performance, process efficiency, workload management, and decision support through data.
 
-I'm Antonio Pennacchia, a Data Analytics & Business Intelligence professional with over 5 years of experience, with a strong passion for football analytics.
+This repository contains real-world inspired case studies built with Power BI, SQL, Excel and other analytics tools to demonstrate how data can support operational decision-making.
 
-This repository collects the football-related analytics projects that best represent how I approach data in the sports industry.
+The projects cover topics such as:
 
-My focus is not limited to pure performance analysis: I’m particularly interested in transforming data into actionable insights for scouting departments, technical staff, and decision-makers.
-
-In March 2023, I earned the **Football Data Analyst certification** through **Wylab** and **TopIX**, further strengthening my analytical approach to football data.
-
-
-The projects included here range from:
-
-- **Functional frameworks** designed to support scouting and recruitment decisions  
-- **Applied case studies** developed on real football datasets  
-- **Performance analysis models**  
-- **Player profiling and segmentation projects**  
-- **Experimental analytics concepts**  
+- Process monitoring
+- Workload distribution
+- Resource allocation
+- SLA and operational performance
+- Business rules implementation
+- KPI design
+- Operational dashboards
+- Decision support systems
 
 ---
 
-## 📂 Projects
+## Projects
 
-### 📌 Player Similarity Framework  
-A data-driven framework designed to support scouting decisions through player profiling, similarity ranking, and recruitment analytics.
-
-👉 [Open project](player-similarity-framework/)
-
----
-
-### 🧤 Goalkeeper xG Prevented Analysis *(coming soon)*  
-A project originally developed during the Football Data Analyst program at Wylab, focused on identifying goalkeepers who outperform expected goals models.
-
-This project later received visibility from Wylab as one of the showcase case studies of the program.
+| # | Project | Description |
+|---|---------|-------------|
+| 01 | Insurance Case Management Dashboard | Operational dashboard for monitoring insurance assignments, backlog, workload distribution and operational KPIs. |
+| 02 | Business Rules Engine *(coming soon)* | Rule-based classification engine supporting operational workflows and process automation. |
 
 ---
 
-## 🎓 Football Data Analyst Program
+## Tools
 
-Part of these projects were developed during the **Football Data Analyst Program by Wylab**, where I worked on real football data, statistical modeling, and performance analytics.
-
----
-
-📬 **Contact**  
-📧 antoniopennacchia1996@gmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/antonio-pennacchia-918609116/)
-
+- Power BI
+- SQL
+- Excel
+- DAX
+- Power Query
 
 ---
 
-*"Data should not replace football intuition. It should make it sharper."*
+## Purpose
+
+The goal of this repository is to showcase practical Business Operations Analytics projects that combine technical implementation with business understanding, focusing on actionable insights rather than purely technical reporting.
+
+Each project includes:
+
+- Business context
+- Objectives
+- Dataset description
+- Dashboard or analytical solution
+- Key insights
+- Business impact
+
+---
+
+👤 **Antonio Pennacchia**
+
+Data Analyst | Decision Support | Customer Analytics
+
+📧 antoniopennacchia1996@gmail.com
+
+🔗 https://www.linkedin.com/in/antonio-pennacchia-918609116/
